@@ -1,0 +1,112 @@
+main .image{
+    border: 1px rgba(13, 53, 90, 0) solid;
+    background-image: url("../images/izuku-face.jpg");
+    height: 400px;
+    width: 380px;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    border: 1px solid rgb(22, 100, 119)
+ 
+}
+main .apelido{
+    margin: 20px;
+    
+    text-align: center;
+    font-size: 25px;
+    
+   
+}
+.info{
+    background-color: #b2bec3;
+    display: flex;
+    align-items: center;
+    flex:1;
+    border-radius: 10px  10px 10px 10px;
+    border: 1px black solid;
+    margin-top: 35px;
+}
+
+.idade, .birt, .nascimento, .morte{
+    padding: 0px 10px 0px 10px;
+    
+    text-align: center;
+    
+}
+
+main h2{
+    text-align: center;
+    text-shadow: 1px 2px 3px black;
+    
+}
+.foto{
+    padding-bottom: 15px;
+    width: 60vw;
+    border-radius: 0px 0px 15px 15px;
+    background-color: #2d3436;
+    border: 1px rgb(22, 100, 119) solid;
+}
+
+.foto h2{
+    color: black;
+    text-shadow: 1px 2px 3px rgb(22, 100, 119);
+}
+main h2, main h3, main h4{
+    color: rgb(14, 116, 116);
+    margin-top: 15px
+    
+}
+main p{
+    margin: 5px
+}
+.habilidades h2, .obj h2{
+    text-shadow: 1px 2px 3px black;
+}
+#line{
+    border-top: solid 1px black;
+    border-radius: 15px;
+    padding: 15px;
+    border-color: rgb(16, 58, 58);
+    text-align: center;
+}
+.individualidades{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.chicote_negro, .flutuar, .obj, .quem_e{
+    padding:15px;
+    border: 1px black solid;
+    background-color: #dfe6e9;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+    
+    
+.one_for_all h4, .chicote_negro h4, .flutuar h4{
+    text-align: center;
+    text-shadow: 1px 2px 3px black;
+}
+main h3{
+   margin-top: 15px;
+   text-shadow: 1px 2px 3px black;
+   
+}
+main li{
+    flex: 1;
+    list-style: none;
+    margin: 10px;
+    border-radius: 10px;
+
+
+}
+.chicote_negro, .flutuar{
+    width: 50%;
+}
+.border_content{
+    border: 1px black solid;
+    background-color: #dfe6e9;
+    border-radius: 15px;
+    margin-top: 10px;
+    
+}

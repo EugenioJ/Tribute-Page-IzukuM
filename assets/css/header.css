@@ -1,0 +1,36 @@
+header{
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(0, 0, 0);
+}
+header h1{
+    background-color: rgb(0, 0, 0);
+    color: rgb(253, 253, 253);
+    display: flex;
+    justify-content: center;
+    text-shadow:  3px 2px 2px rgb(40, 160, 160);
+    border-radius: 0 0 5px 5px;
+    font-size: 50px;
+}
+header li{
+    display: flex;
+    justify-content: space-around ;
+    margin: 0 30px 0 30px;
+
+} 
+header a{
+    border: solid 1px black;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    color:rgb(40, 160, 160)
+}
+.menu_header{
+    border: 1px green solid;
+    border-radius: 0px 0px 15px 15px;
+    
+    
+}
+
